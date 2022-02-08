@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Profeicneincies -> C/C++, Java, JavaScript (React and Node), and Python (Flask)
+
 ![Ella's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ellauppal&layout=compact&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellauppal&layout=compact&show_icons=true&theme=radical)](https://github.com/ellauppal/github-readme-stats)
 
 <!--
