@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Work -> AI / ML Developer + Coding & Robotics Instructor
+
 Programming Languages -> C/C++, Java, JavaScript (React.js + Node.js), Python (Flask)
 
 ![Ella's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ellauppal&show_icons=true&theme=radical&hide=issues,contribs)
