@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-C/C++, Java, JavaScript (React.js + Node.js), Python (Flask)
+Programming Languages -> C/C++, Java, JavaScript (React.js + Node.js), Python (Flask)
 
 ![Ella's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ellauppal&layout=compact&show_icons=true&theme=radical)
 
