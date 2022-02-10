@@ -2,7 +2,7 @@
 
 Programming Languages -> C/C++, Java, JavaScript (React.js + Node.js), Python (Flask)
 
-![Ella's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ellauppal&show_icons=true&theme=radicalapi&hide=issues,contribs)
+![Ella's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ellauppal&show_icons=true&theme=radical&hide=issues,contribs)
 
 <!--
 **ellauppal/ellauppal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
