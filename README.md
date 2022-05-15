@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Work -> AI / ML Developer + Coding & Robotics Instructor
+Previous Work -> AI / ML Developer + Coding & Robotics Instructor
 
 Programming Languages -> C/C++, Java, JavaScript (React.js + Node.js), Python (Flask)
 
