@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Previous Work -> AI / ML Developer + Coding & Robotics Instructor
+Current Work -> Cloud Software Developer @ Ford
+
+Previous Work -> AI / ML Developer, Coding & Robotics Instructor
 
 Programming Languages -> C/C++, Java, JavaScript (React.js + Node.js), Python (Flask)
 
