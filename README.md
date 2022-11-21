@@ -7,7 +7,7 @@ Previous Work -> AI / ML Developer, Coding & Robotics Instructor
 Programming Languages -> C, C++, Java, JavaScript, Python
 
 ![Ella's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ellauppal&show_icons=true&theme=radical&hide=issue,contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellauppal&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellauppal&theme=radical)
 
 <!--
 **ellauppal/ellauppal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
