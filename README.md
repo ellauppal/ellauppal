@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Current Work -> Cloud Software Developer @ Ford
+Current Work -> Software Engineer Co-op @ Microchip
 
-Previous Work -> AI / ML Developer, Coding & Robotics Instructor
+Previous Work -> Cloud Software Developer @ Ford, AI / ML Developer
 
-Programming Languages -> C, C++, Java, JavaScript, Python
+Programming Languages -> C, C++, Java, JavaScript, Python, MATLAB, VHDL, Arm Assembly, SQL
 
 ![Ella's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ellauppal&show_icons=true&theme=radical&hide=issue,contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellauppal&theme=radical)
