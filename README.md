@@ -1,4 +1,10 @@
-## Hi there 👋
+### Hello! 👋
+
+My name is Ella Uppal, and I am third-year Computer Engineering student at the University of Waterloo.
+
+I have a strong interest in embedded systems, machine learning, and robotics, with hands-on experience in each of these fields.
+
+Languages: C, C++, Python, Java, Verilog, VHDL, ARM Assembly, MATLAB, Perl, SQL, JavaScript
 
 <!--
 **ellauppal/ellauppal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
